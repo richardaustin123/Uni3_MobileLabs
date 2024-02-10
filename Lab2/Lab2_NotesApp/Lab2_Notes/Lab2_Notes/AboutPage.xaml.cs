@@ -1,12 +1,14 @@
 ﻿namespace Lab2_Notes;
 
 public partial class AboutPage : ContentPage {
-	public AboutPage() {
+	public AboutPage()
+    {
 		InitializeComponent();
 	}
 
 
-    private async void LearnMore_Clicked(object sender, EventArgs e) {
+    private async void LearnMore_Clicked(object sender, EventArgs e)
+    {
         await Launcher.Default.OpenAsync("https://aka.ms/maui");
     }
 

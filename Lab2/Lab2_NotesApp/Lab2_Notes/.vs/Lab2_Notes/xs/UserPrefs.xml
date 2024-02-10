@@ -1,32 +1,25 @@
 ﻿<Properties StartupConfiguration="{1EF14287-635E-4BAA-9AD0-B35A3C8A1FBC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2_Notes/AboutPage.xaml.cs">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0894EB1-BF74-4376-825B-5425BFDDC464" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2_Notes/MainPage.xaml.cs">
     <Files>
-      <File FileName="Lab2_Notes/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="Lab2_Notes/MainPage.xaml" Line="1" Column="1" />
-      <File FileName="Lab2_Notes/AboutPage.xaml" Line="7" Column="1" />
-      <File FileName="Lab2_Notes/AboutPage.xaml.cs" Line="11" Column="6" />
+      <File FileName="Lab2_Notes/MainPage.xaml" Line="4" Column="28" />
+      <File FileName="Lab2_Notes/MainPage.xaml.cs" Line="1" Column="16" />
+      <File FileName="Lab2_Notes/AboutPage.xaml" Line="4" Column="28" />
+      <File FileName="Lab2_Notes/AboutPage.xaml.cs" Line="1" Column="16" />
+      <File FileName="Lab2_Notes/AppShell.xaml" Line="2" Column="22" />
+      <File FileName="Lab2_Notes/AppShell.xaml.cs" Line="1" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Lab2_Notes" expanded="True">
-            <Node name="Lab2_Notes">
-              <Node name="AboutPage.xaml" expanded="True">
-                <Node name="AboutPage.xaml.cs" selected="True" />
-              </Node>
-              <Node name="MainPage.xaml" expanded="True" />
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Lab2__Notes PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0894EB1-BF74-4376-825B-5425BFDDC464" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0894EB1-BF74-4376-825B-5425BFDDC464" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab2__Notes PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0894EB1-BF74-4376-825B-5425BFDDC464" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

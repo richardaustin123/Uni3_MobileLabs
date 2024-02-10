@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lab2_Notes
+build_property.ProjectDir = /Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/
+
+[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
+
+[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
