@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6C729F2A-E5CF-4B32-A619-52EBB4F91CA9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab2_App/MainPage.xaml.cs">
+    <Files>
+      <File FileName="Lab2_App/MainPage.xaml.cs" Line="15" Column="19" />
+      <File FileName="Lab2_App/MainPage.xaml" Line="41" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab2_App" expanded="True">
+            <Node name="Lab2_App">
+              <Node name="MainPage.xaml">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0894EB1-BF74-4376-825B-5425BFDDC464" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab2__App PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0894EB1-BF74-4376-825B-5425BFDDC464" />
+</Properties>
