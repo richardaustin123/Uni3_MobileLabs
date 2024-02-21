@@ -14,12 +14,6 @@ build_property.IncludeAllContentForSelfExtract =
 build_property.RootNamespace = Lab2_Notes
 build_property.ProjectDir = /Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/
 
-[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/AboutPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.AboutPage.xaml
-build_metadata.AdditionalFiles.TargetPath = AboutPage.xaml
-build_metadata.AdditionalFiles.RelativePath = AboutPage.xaml
-
 [/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.App.xaml
@@ -32,12 +26,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/NotesPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.NotesPage.xaml
-build_metadata.AdditionalFiles.TargetPath = NotesPage.xaml
-build_metadata.AdditionalFiles.RelativePath = NotesPage.xaml
-
 [/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.Resources.Styles.Colors.xaml
@@ -49,3 +37,15 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/Views/AboutPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.Views.AboutPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/AboutPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/AboutPage.xaml
+
+[/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/Lab2_NotesApp/Lab2_Notes/Lab2_Notes/Views/NotesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Lab2_Notes.Views.NotesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views/NotesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views/NotesPage.xaml

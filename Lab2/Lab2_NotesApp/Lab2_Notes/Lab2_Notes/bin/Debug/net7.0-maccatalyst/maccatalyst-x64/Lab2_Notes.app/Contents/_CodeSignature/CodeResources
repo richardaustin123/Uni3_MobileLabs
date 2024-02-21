@@ -12,6 +12,10 @@
 		<data>
 		OpJcJqZZ9LtzAJpAuZxX1+TkRdw=
 		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		iEtuUGCV6JM3gxS/pO33swhmpp8=
+		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
 		oowkf1sL6T19nanXUObgmuayWqM=
@@ -40,6 +44,22 @@
 		<data>
 		lilXtcIcHOg1m2H2kahMfnG+kR4=
 		</data>
+		<key>Resources/icon_about.png</key>
+		<data>
+		EaGJl2eG6RRHYEvfMgn/bpPGZqQ=
+		</data>
+		<key>Resources/icon_about_ios.png</key>
+		<data>
+		lLO+/KuTkEOIu2S9ekGqp853wtA=
+		</data>
+		<key>Resources/icon_notes.png</key>
+		<data>
+		gSQlKoDpy/z6WHwfZowwEaR31n4=
+		</data>
+		<key>Resources/icon_notes_ios.png</key>
+		<data>
+		WXYuvKcWr+ksOMFitQb3lZF2E3g=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -47,14 +67,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0nKXxCAx4NGNltHNBuJ6+kngDBmXJ5jfSEfVHpTiahg=
+			iNh9LwIyiHnrggG0NwpzHCbddR+QYr67znx2Yz69XX8=
 			</data>
 		</dict>
 		<key>MonoBundle/Lab2_Notes.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0zQDLjGpdOO0je4e7bwbbrsXx0snlm7UuxmFus49Dqg=
+			Yo6vZTdZvE/zrnl2jQ2YNiSBIM/tn8LgtrEuEWXuOAM=
 			</data>
 		</dict>
 		<key>MonoBundle/Microsoft.CSharp.dll</key>
@@ -1380,6 +1400,13 @@
 			aLr32v5xR9SInrc8W2YiXxnwx7q6DxtCQvAHp8bMfvg=
 			</data>
 		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
+			</data>
+		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<dict>
 			<key>hash2</key>
@@ -1427,6 +1454,34 @@
 			<key>hash2</key>
 			<data>
 			KYloWNEPaiuRgKGUuViGTax4BpymRmXlB8tt3TPNYxk=
+			</data>
+		</dict>
+		<key>Resources/icon_about.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OR3L/dI8wscyBNlWNCriMDkM3t8m653RCvUCWDkwoZg=
+			</data>
+		</dict>
+		<key>Resources/icon_about_ios.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hK5anQxNsr1kdB6iai6a74j6CE4nwUuXPY3QJhi0e1U=
+			</data>
+		</dict>
+		<key>Resources/icon_notes.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5tv6wfnBMYnMK0Uqitj+zWv/XfJyUeW81tN1/xGo9vg=
+			</data>
+		</dict>
+		<key>Resources/icon_notes_ios.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hgNEnnsznuhdj8NRbBEK2Y9ik14Gz47m122rCZqhQA8=
 			</data>
 		</dict>
 	</dict>

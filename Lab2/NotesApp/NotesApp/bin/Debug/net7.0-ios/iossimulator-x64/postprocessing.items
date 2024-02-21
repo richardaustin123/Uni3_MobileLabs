@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="NotesApp.app/NotesApp">
+      <BCSymbolMapName>NotesApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>NotesApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/NotesApp/NotesApp/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>NotesApp.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/richardaustin/GitHub/Uni/Uni3_MobileLabs/Lab2/NotesApp/NotesApp</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
