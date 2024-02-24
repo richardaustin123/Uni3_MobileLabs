@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{CF4655A0-BF1B-4895-9F1B-0188D48C8094}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NotesApp/Views/AllNotesPage.xaml">
+    <Files>
+      <File FileName="NotesApp/Views/AboutPage.xaml" Line="35" Column="1" />
+      <File FileName="NotesApp/AppShell.xaml" Line="11" Column="58" />
+      <File FileName="NotesApp/Models/Note.cs" Line="4" Column="21" />
+      <File FileName="NotesApp/Models/About.cs" Line="4" Column="21" />
+      <File FileName="NotesApp/Views/AboutPage.xaml.cs" Line="15" Column="67" />
+      <File FileName="NotesApp/Views/NotePage.xaml.cs" Line="1" Column="41" />
+      <File FileName="NotesApp/Views/AllNotes.cs" Line="41" Column="2" />
+      <File FileName="NotesApp/Views/AllNotesPage.xaml" Line="14" Column="48" />
+      <File FileName="NotesApp/Views/NotePage.xaml" Line="17" Column="21" />
+      <File FileName="NotesApp/Views/AllNotesPage.xaml.cs" Line="1" Column="41" />
+      <File FileName="NotesApp/AppShell.xaml.cs" Line="11" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NotesApp">
+            <Node name="NotesApp">
+              <Node name="Views">
+                <Node name="AboutPage.xaml" expanded="True" />
+                <Node name="AllNotesPage.xaml" selected="True" />
+                <Node name="NotePage.xaml" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0894EB1-BF74-4376-825B-5425BFDDC464" />
+  <MonoDevelop.Ide.ItemProperties.NotesApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B0894EB1-BF74-4376-825B-5425BFDDC464" />
+</Properties>
